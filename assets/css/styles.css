@@ -300,9 +300,11 @@ body.dark-theme {
 /*=============== HOME ===============*/
 .Home__header {
   display: flex;
+  text-align: center;
   align-items: center;
   justify-content: center;
-  font-size: 2re;
+  font-size: 2rem;
+  padding: 0 24px;
   padding-bottom: 3rem;
 }
 .Home__header p {
